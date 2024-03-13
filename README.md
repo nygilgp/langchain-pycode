@@ -13,6 +13,10 @@ A prompt chat project, which keeps history like OpenAI chat. Used langchin memor
 A prompt project that reads through the facts document and returns the most optimum
 Used chroma as vector DB. Most relevant data is then sent to OpenAI on user query against the facts using chain Retrieval.
 
+## agents
+
+A prompt project that is going to connect to DB and answer user quries using ChatGPT and LangChain.
+
 ## Steps to run the each project
 
 > Create .env with key
